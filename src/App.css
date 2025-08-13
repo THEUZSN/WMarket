@@ -1,0 +1,29 @@
+.header-line{
+    display: flex;
+    width: 100%;
+    gap: 40px;
+    align-items: center;
+    padding: 10px 5%;
+}
+header input{
+    height: 40px;
+    width: 50%;
+}
+.nav-cat{
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+}
+.nav-cat li{
+    list-style: none;
+    cursor: pointer;
+}
+.nav-cat li:hover{
+    text-decoration: underline;
+    color: white;
+}
+
+.main-header{
+    background-color: #504eff;
+    color: #d6d6d6;
+}
