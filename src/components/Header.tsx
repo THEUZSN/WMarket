@@ -9,16 +9,13 @@ function Header(){
             </div>
         <div className="header-line">
             <ul className="nav-cat">
-                <li>Walisson</li>
-                <li>Wendel</li>
-                <li>Wallace</li>
-                <li>Willou</li>
-                <li>Wendy</li>
-                <li>Wendler</li>
-                <li>Withney</li>
-                <li>Wenvel</li>
-                <li>Wheny</li>
-                <li>Waller</li>
+                <li>PlayStation</li>
+                <li>Xbox</li>
+                <li>Nintendo</li>
+                <li>Atari</li>
+                <li>Mesa</li>
+                <li>Portáteis</li>
+                <li>Controles</li>
             </ul>
         </div>
 
