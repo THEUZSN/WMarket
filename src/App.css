@@ -27,3 +27,10 @@ header input{
     background-color: #504eff;
     color: #d6d6d6;
 }
+.homeButton{
+    font-size: 2em;
+}
+
+.registerButton{
+    font-size: 1.5em;
+}
